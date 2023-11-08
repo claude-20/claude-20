@@ -18,9 +18,8 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 
 ## 💼 Work Experience
 - Python/Django Developer - MariyaNet (April 2023 - Present)
-- Django Web Developer - MariyaNet Facebook Page (Apr 2023 - Aug 2023)
-- Technical Support - Local Companies and Businesses (April 2023 - Present)
-- Software Developer/Tech Guy (Volunteer) - Local Churches (April 2023 - Present)
+- Technical Support - Local Companies and Businesses (December 2017 - Present)
+- Software Developer/Tech Guy (Volunteer) - Local Churches (May 2019 - Present)
 
 ## 💻 Projects
 - [Finance Application](#) - Python, Flask, SQL, SQLite
@@ -35,8 +34,8 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 
 ## 🚀 Skills
 - **Front-End**: HTML, CSS, JavaScript, React, Vue
-- **Back-End**: Python, Django, Flask, Java
-- **Databases**: SQL, SQLite
+- **Back-End**: Python, Django, Flask, Java, PHP, Laravel 
+- **Databases**: SQL, SQLite, PostgreSQL
 - **Web Design**: Responsive Design, Bootstrap
 - **Version Control**: Git
 - **UX/UI Design**: Figma
