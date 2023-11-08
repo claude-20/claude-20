@@ -6,15 +6,15 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 
 ## 📚 Education
 - Master of Science in Computer Science - University of Colorado Boulder (Oct 2023 - Present)
-- Google UX Design - Google (Mar 2023 - Present)
-- Google IT Automation with Python - Google (Dec 2022 - Apr 2023)
 - Pearson Higher National Diploma (HND) in Computing - ESOFT Metro Campus (Apr 2022 - Aug 2023)
-- CS50’s Web Programming with Python and JavaScript - Harvard University (Feb 2023 - May 2023)
 - CS50: Introduction to Computer Science - Harvard University (Dec 2022 - Feb 2023)
-- CS50's Introduction to Cybersecurity - Harvard University (Dec 2022 - Feb 2023)
-- CS50's Introduction to Programming with Python - Harvard University (Dec 2022 - Feb 2023)
-- CS50's Introduction to Databases with SQL - Harvard University (Dec 2022 - Feb 2023)
-- CS50's Introduction to Game Development - Harvard University (Dec 2022 - Feb 2023)
+- CS50's Introduction to Programming with Python - Harvard University (Feb 2023 - Apr 2023)
+- CS50’s Web Programming with Python and JavaScript - Harvard University (Feb 2023 - May 2023)
+- CS50's Introduction to Databases with SQL - Harvard University (Oct 2023 - Nov 2023)
+- CS50's Introduction to Cybersecurity - Harvard University (Oct 2023 - Nov 2023)
+- CS50's Introduction to Game Development - Harvard University (Jun 2022 - Feb 2023)
+- Google IT Automation with Python - Google (Dec 2022 - Apr 2023)
+- Google UX Design - Google (Mar 2023 - Apr 2023)
 
 ## 💼 Work Experience
 - Python/Django Developer - MariyaNet (April 2023 - Present)
