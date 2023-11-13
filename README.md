@@ -44,9 +44,9 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 
 Feel free to explore my projects and reach out if you'd like to collaborate or have any questions. Let's build amazing things together! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claude-zenith-3b302a287/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudezenith/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/claude-20)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat)](www.cloudzenith.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat)](https://claudezenith.pythonanywhere.com/)
 
 
 <!--
