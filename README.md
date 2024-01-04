@@ -5,16 +5,18 @@
 Welcome to my GitHub profile! I'm passionate about software development, and I love creating web applications and solving complex problems.
 
 ## 📚 Education
-- Master of Science in Computer Science - University of Colorado Boulder (Oct 2023 - Present)
-- Pearson Higher National Diploma (HND) in Computing - ESOFT Metro Campus (Apr 2022 - Aug 2023)
-- CS50: Introduction to Computer Science - Harvard University (Dec 2022 - Feb 2023)
-- CS50's Introduction to Programming with Python - Harvard University (Feb 2023 - Apr 2023)
-- CS50’s Web Programming with Python and JavaScript - Harvard University (Feb 2023 - May 2023)
-- CS50's Introduction to Databases with SQL - Harvard University (Oct 2023 - Nov 2023)
-- CS50's Introduction to Cybersecurity - Harvard University (Oct 2023 - Nov 2023)
-- CS50's Introduction to Game Development - Harvard University (Jun 2022 - Feb 2023)
-- Google IT Automation with Python - Google (Dec 2022 - Apr 2023)
-- Google UX Design - Google (Mar 2023 - Apr 2023)
+- Master of Science in Computer Science - University of Colorado Boulder
+- Pearson Higher National Diploma (HND) in Computing - ESOFT Metro Campus
+- CS50: Introduction to Computer Science - Harvard University
+- CS50's Introduction to Programming with Python - Harvard University
+- CS50’s Web Programming with Python and JavaScript - Harvard University
+- CS50's Introduction to Databases with SQL - Harvard University
+- CS50's Introduction to Cybersecurity - Harvard University
+- CS50's Introduction to Game Development - Harvard University
+- Google IT Automation with Python - Google
+- Google UX Design - Google
+- AWS Fundamentals Specialization - Amazon
+- AWS Cloud Solutions Architect Professional Certificate - Amazon
 
 ## 💼 Work Experience
 - Python/Django Developer - MariyaNet (April 2023 - Present)
@@ -34,17 +36,20 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 
 ## 🚀 Skills
 - **Front-End**: HTML, CSS, JavaScript, React, Vue
-- **Back-End**: Python, Django, Flask, Java, PHP, Laravel 
-- **Databases**: SQL, SQLite, PostgreSQL
-- **Web Design**: Responsive Design, Bootstrap
+- **Back-End**: Python, Django, Flask, Java, PHP, Laravel, Express.js, Node.js
+- **Databases**: SQL, SQLite, PostgreSQL,MongoDB (Mongoose), DynamoDB
+- **Web Design**: Responsive Design, Bootstrap, GSAP (GreenSock Animation Platform)
+- **Mobile Development**: React Native
 - **Version Control**: Git
 - **UX/UI Design**: Figma
 - **Content Management**: WordPress
 - **Containerization**: Docker
+- **Cloud Services**: AWS (Amazon Web Services), PythonAnywhere
+
 
 Feel free to explore my projects and reach out if you'd like to collaborate or have any questions. Let's build amazing things together! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudezenith/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudezénith/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/claude-20)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat)](https://claudezenith.pythonanywhere.com/)
 
